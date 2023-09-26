@@ -29,6 +29,7 @@ interests:
   - Machine Learning for Education and Healthcare
   - Quantitative Epistemiology
   - Data- and reality-centric AI
+  - Probabilistic machine learning
   - Quantitative Research
 
 # Education to show in About widget
