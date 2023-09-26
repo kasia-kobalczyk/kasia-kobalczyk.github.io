@@ -61,7 +61,7 @@ social:
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/Kaasiak
+    link: https://github.com/kasia-kobalczyk
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/katarzyna-kobalczyk/
