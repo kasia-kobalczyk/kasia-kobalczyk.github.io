@@ -1,47 +1,45 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Kasia Kobalczyk
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Katarzyna (Kasia)
+last_name: Kobalczyk
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 👩🏻‍💻
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD candidate in Machine Learning and AI
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Cambridge | van der Schaar Lab
+    url: https://www.vanderschaar-lab.com
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Enthiusiastic about machine learning for healthcare and education. Striving to push forwards the fields quantitative epistemology, online decision-making and human-machine interaction.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Machine Learning for Education and Healthcare
+  - Quantitative Epistemiology
+  - Data- and reality-centric AI
+  - Quantitative Research
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Machine Learning and AI
+      institution: University of Cambridge, 2023 - 2027 (expected)
+    - course: MASt in Mathematical Statistics
+      institution: University of Cambridge, 2022 - 2023
+    - course: BSc in Mathematics and Statistics
+      institution: University of Warwick, 2019 - 2022
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -51,34 +49,40 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: https://twitter.com/GeorgeCushen
+  #   label: Follow me on Twitter
+  #   display:
+  #     header: true
+  # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  #   icon_pack: fas
+  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/Kaasiak
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/katarzyna-kobalczyk/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/my_resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'knk@cam.ac.uk'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+<!-- I am a PhD candidate in Machine Learning and AI working in the lab of Prof. Mihaela van der Schaar at the University of Cambridge. The primary field of my research resides in the emergent realm of [Quantitative Epistemology](https://www.vanderschaar-lab.com/). The goal of Quantiative Epistemology is to develop machine learning models of decision-making, including how humans acquire and learn from new information, establish and update their beliefs, and act on the basis of their cumulative knowledge. With a primary emphasis on data- and reality- cetnric AI, my research aims at advancing personalised education and healthcare. My work spans multiple areas of ML, including Bayesian methods, representation, and imitation learning. -->
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"}
+I am a PhD candidate in Machine Learning and AI working in the lab of Prof. Mihaela van der Schaar at the University of Cambridge. My research primarily focuses on [Quantitative Epistemology](https://www.vanderschaar-lab.com/), an emerging field that aims to develop machine learning models of knowledge aquisition and decision-making processes. This includes understanding how humans acquire and integrate new information, refine and update their beliefs, and make decisions based on their accumulated knowledge. I am particularly passionate about data- and reality-centric AI, striving to advance personalized education and healthcare. My research encompasses various ML domains such as Bayesian methods, representation, and imitation learning.
+
+I am actively engaged in a collaborative parnetship with [Eedi](https://eedi.com), working alongside industry experts to enhance the effectiveness of studying and teaching mathematics among school-age children. This involves the development of novel machine learning models aimed at understanding students’ misconceptions and guiding their learning paths.
+
+Before starting my PhD, I completed Part III of the Mathematical Tripos at the University of Cambridge, specialisting in Mathematical Statistics. I obtained my Bachelor's degree in Mathematics and Statistics at the University of Warwick.
+
+<!-- I am actively engaged in a collaborative parnetship with [Eedi](https://eedi.com)—mathematics tuition enterprise. My efforts are directed towards creating and integrating pioneering machine learning solutions into their educational platform. Our common objective is to enhance the effectivness of both studying and teaching mathematics. This can be achieved by facilitating a personalized and intelligent approach that caters to individual learning needs. -->
