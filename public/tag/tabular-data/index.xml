@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tabular data | Katarzyna (Kasia) Kobalczyk</title>
+    <link>https://example.com/tag/tabular-data/</link>
+      <atom:link href="https://example.com/tag/tabular-data/index.xml" rel="self" type="application/rss+xml" />
+    <description>tabular data</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 22 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu657cd6d5c75f57c23416a235dc5083f6_34177_512x512_fill_lanczos_center_3.png</url>
+      <title>tabular data</title>
+      <link>https://example.com/tag/tabular-data/</link>
+    </image>
+    
+    <item>
+      <title>Tabular Few-Shot Generalization Across Heterogenous Feature Spaces</title>
+      <link>https://example.com/publications/articles/flat/</link>
+      <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publications/articles/flat/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;imgage&#34; srcset=&#34;
+               /publications/articles/flat/FLAT_diagram_hu70fa20c8d5553d07968fe95a2b5925cb_425601_0869fd281d26d942a501803941531fdb.webp 400w,
+               /publications/articles/flat/FLAT_diagram_hu70fa20c8d5553d07968fe95a2b5925cb_425601_4c12e7814fa1c824226c48060df617ca.webp 760w,
+               /publications/articles/flat/FLAT_diagram_hu70fa20c8d5553d07968fe95a2b5925cb_425601_1200x1200_fit_q100_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/publications/articles/flat/FLAT_diagram_hu70fa20c8d5553d07968fe95a2b5925cb_425601_0869fd281d26d942a501803941531fdb.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;353&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+Despite the prevalence of tabular datasets, learning with just a few labelled examples remains an under-explored area of research. Existing few-shot learning methods are not directly applicable to tabular datasets due to the variation in the relationships between the columns, their underlying meanings, and their permutational invariance. To address these challenges, we propose FLAT—the first solution for the generalized problem of tabular few-shot learning, including the critical aspect of knowledge sharing between datasets with heterogenous sets of columns. Using a Dataset2Vec-inspired encoder, FLAT learns a low-dimensional embedding space of tabular datasets and their individual columns that captures the key characteristics of datasets; this enables knowledge transfer and generalization to previously unseen datasets. Based on the embedding of a new dataset, a decoder network generates the parameters of the predictive target network. To handle the varying number of features, their permutational invariance and structural relationship, we implement the target network as a Graph Attention Network. Using a collection of datasets from the UCI Machine Learning Repository, we demonstrate successful generalization to different tabular datasets and a considerable improvement over existing baselines.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

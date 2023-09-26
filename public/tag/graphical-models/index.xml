@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Graphical Models | Katarzyna (Kasia) Kobalczyk</title>
+    <link>https://example.com/tag/graphical-models/</link>
+      <atom:link href="https://example.com/tag/graphical-models/index.xml" rel="self" type="application/rss+xml" />
+    <description>Graphical Models</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 15 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu657cd6d5c75f57c23416a235dc5083f6_34177_512x512_fill_lanczos_center_3.png</url>
+      <title>Graphical Models</title>
+      <link>https://example.com/tag/graphical-models/</link>
+    </image>
+    
+    <item>
+      <title>cegpy: Modelling with chain event graphs in Python</title>
+      <link>https://example.com/publications/articles/cegpy/</link>
+      <pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publications/articles/cegpy/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;imgage&#34; srcset=&#34;
+               /publications/articles/cegpy/cegpy_hua68a355d8bc9858a5831efd1c8071401_299686_94e1fa56beb24ddc504a833145ccabc6.webp 400w,
+               /publications/articles/cegpy/cegpy_hua68a355d8bc9858a5831efd1c8071401_299686_fd7d8effde1650fd6ecdad109691f606.webp 760w,
+               /publications/articles/cegpy/cegpy_hua68a355d8bc9858a5831efd1c8071401_299686_1200x1200_fit_q100_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/publications/articles/cegpy/cegpy_hua68a355d8bc9858a5831efd1c8071401_299686_94e1fa56beb24ddc504a833145ccabc6.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;383&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Chain event graphs (CEGs) are a recent family of probabilistic graphical models that generalise the popular Bayesian networks (BNs) family. Crucially, unlike BNs, a CEG is able to embed, within its graph and its statistical model, asymmetries exhibited by a process. These asymmetries might be in the conditional independence relationships or in the structure of the graph and its underlying event space. Structural asymmetries are common in many domains, and can occur naturally (e.g. a defendant vs prosecutor’s version of events) or by design (e.g. a public health intervention). Whilst two CEG packages exist in R for modelling processes with asymmetric conditional independencies, there currently exists no software that allows a user to leverage the theoretical developments of the CEG model family in modelling processes with structural asymmetries. In this paper, we present cegpy—the first Python implementation of CEGs and the first across all languages to support structurally asymmetric processes. cegpy contains an implementation of Bayesian learning and probability propagation algorithms for CEGs. We illustrate the functionality of cegpy using a structurally asymmetric dataset.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
