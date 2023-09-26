@@ -68,9 +68,9 @@ sections:
           company: Citadel
           company_url: ''
           company_logo: citadel-vector-logo
-          location: London,UK
+          location: London, UK
           date_start: '2023-06-26'
-          date_end: ''
+          date_end: '2023-09-08'
           # description: |2-
           #     Responsibilities include:
 
