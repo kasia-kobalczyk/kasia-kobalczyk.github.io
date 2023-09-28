@@ -35,7 +35,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Machine Learning and AI
+    - course: PhD in Applied Mathematics and Theoretical Physics
       institution: University of Cambridge, 2023 - 2027 (expected)
     - course: MASt in Mathematical Statistics
       institution: University of Cambridge, 2022 - 2023
