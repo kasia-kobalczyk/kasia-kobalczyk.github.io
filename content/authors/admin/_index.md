@@ -87,6 +87,6 @@ I am a PhD candidate in Machine Learning and AI working in the lab of Prof. Miha
 
 I am actively engaged in a collaborative parnetship with [Eedi](https://eedi.com), working alongside industry experts to enhance the effectiveness of studying and teaching mathematics among school-age children. This involves the development of novel machine learning models aimed at understanding students’ misconceptions and guiding their learning paths.
 
-Before starting my PhD, I completed Part III of the Mathematical Tripos at the University of Cambridge, specialisting in Mathematical Statistics. I obtained my Bachelor's degree in Mathematics and Statistics at the University of Warwick.
+Before starting my PhD, I completed Part III of the Mathematical Tripos at the University of Cambridge, specialising in Mathematical Statistics. I obtained my Bachelor's degree in Mathematics and Statistics at the University of Warwick.
 
 <!-- I am actively engaged in a collaborative parnetship with [Eedi](https://eedi.com)—mathematics tuition enterprise. My efforts are directed towards creating and integrating pioneering machine learning solutions into their educational platform. Our common objective is to enhance the effectivness of both studying and teaching mathematics. This can be achieved by facilitating a personalized and intelligent approach that caters to individual learning needs. -->
