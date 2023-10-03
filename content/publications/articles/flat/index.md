@@ -1,22 +1,23 @@
 ---
-title: 'Tabular Few-Shot Generalization Across Heterogenous Feature Spaces [in review]'
+title: 'Tabular Few-Shot Generalization Across Heterogenous Feature Spaces'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Max Zhu
-  - admin
-  - Andrija Petrovic
-  - Mladen Nikolic
-  - Mihaela van der Schaar
-  - Pietro Lio
-  - Boris Delibašić
+- in review
+  # - Max Zhu
+  # - admin
+  # - Andrija Petrovic
+  # - Mladen Nikolic
+  # - Mihaela van der Schaar
+  # - Pietro Lio
+  # - Boris Delibašić
 
-# Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+# # Author notes (optional)
+# author_notes:
+#   - 'Equal contribution'
+#   - 'Equal contribution'
 
 date: '2023-09-22T00:00:00Z'
 doi: ''
