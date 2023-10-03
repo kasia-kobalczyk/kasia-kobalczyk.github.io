@@ -252,7 +252,7 @@ sections:
         # postcode: '94305'
         # country: United States
         # country_code: US
-      directions: Pavilion G, Office G0.01
+      directions: Pavilion G, Office G0.12
       # office_hours:
       #   - 'Monday 10:00 to 13:00'
       #   - 'Wednesday 09:00 to 10:00'
