@@ -22,12 +22,12 @@ organizations:
     url: https://www.vanderschaar-lab.com
 
 # Short bio (displayed in user profile at end of posts)
-bio: Enthiusiastic about machine learning for healthcare and education. Striving to push forwards the fields quantitative epistemology, online decision-making and human-machine interaction.
+bio: Enthiusiastic about machine learning for healthcare and education with a human-centric approach.
 
 # Interests to show in About widget
 interests:
   - Machine Learning for Education and Healthcare
-  - Quantitative Epistemiology
+  - Human-machine interaction
   - Data- and reality-centric AI
   - Probabilistic Machine Learning
   - Quantitative Research
@@ -83,9 +83,9 @@ highlight_name: true
 ---
 <!-- I am a PhD candidate in Machine Learning and AI working in the lab of Prof. Mihaela van der Schaar at the University of Cambridge. The primary field of my research resides in the emergent realm of [Quantitative Epistemology](https://www.vanderschaar-lab.com/). The goal of Quantiative Epistemology is to develop machine learning models of decision-making, including how humans acquire and learn from new information, establish and update their beliefs, and act on the basis of their cumulative knowledge. With a primary emphasis on data- and reality- cetnric AI, my research aims at advancing personalised education and healthcare. My work spans multiple areas of ML, including Bayesian methods, representation, and imitation learning. -->
 
-I am a PhD candidate in Machine Learning and AI working in the lab of Prof. Mihaela van der Schaar at the University of Cambridge, department of Applied Mathematics and Theoretical Physics. My research primarily focuses on [Quantitative Epistemology](https://www.vanderschaar-lab.com/), an emerging field that aims to develop machine learning models of human decision-making and knowledge acquisition. This involves understanding how humans acquire and integrate new information, refine and update their beliefs, and make decisions based on their accumulated knowledge. I am particularly passionate about data- and reality-centric AI, with a dedicated focus on advancing personalized education and healthcare. My research encompasses various ML domains such as Bayesian methods, representation, and imitation learning.
+I am a PhD candidate in Machine Learning and AI working in the lab of Prof. Mihaela van der Schaar at the University of Cambridge, department of Applied Mathematics and Theoretical Physics. My research primarily focuses on developing machine learning models for personalised decision-making and human-machine interaction. This involves understanding how humans acquire and integrate new information, refine and update their beliefs, and make decisions based on their accumulated knowledge. I am particularly passionate about data- and reality-centric AI, with a dedicated focus on advancing personalized education and healthcare. My research encompasses various ML domains such as Bayesian methods, representation, and imitation learning.
 
-I am actively engaged in a collaborative parnetship with [Eedi](https://eedi.com), working alongside industry experts to enhance the effectiveness of studying and teaching mathematics among school-age children. This involves the development of novel machine learning models aimed at understanding students’ misconceptions and guiding their learning paths.
+I am actively engaged in a collaborative partnership with [Eedi](https://eedi.com), working alongside industry experts to enhance the effectiveness of studying and teaching mathematics among school-age children. This involves the development of novel machine learning models aimed at understanding students’ misconceptions and guiding their learning paths.
 
 Before starting my PhD, I completed Part III of the Mathematical Tripos at the University of Cambridge, specialising in Mathematical Statistics. I obtained my Bachelor's degree in Mathematics and Statistics at the University of Warwick.
 
