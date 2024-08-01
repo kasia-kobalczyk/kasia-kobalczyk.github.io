@@ -5,7 +5,6 @@ title: 'Tabular Few-Shot Generalization Across Heterogenous Feature Spaces'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- in review
   - Max Zhu
   - admin
   - Andrija Petrovic
@@ -52,6 +51,8 @@ links:
 #   url: 'https://github.com/Maccy-Z/FairFewshot'
 - name: arXiv
   url: 'https://arxiv.org/abs/2311.10051'
+- name: PDF
+  url: 'publications/articles/flat/paper.pdf'
 
 
 # Featured image
