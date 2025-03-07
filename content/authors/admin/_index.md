@@ -83,9 +83,9 @@ email: 'knk@cam.ac.uk'
 highlight_name: true
 ---
 
-I am a PhD candidate in the Machine Learning and AI lab of Prof. Mihaela van der Schaar at the University of Cambridge, department of Applied Mathematics and Theoretical Physics. My research primarily focuses on developing machine learning models for personalised decision-making and human-machine interaction. I am particularly passionate about data- and reality-centric AI, with a dedicated focus on advancing personalized education and healthcare. My research encompasses various ML domains, including: probabilistic ML, Bayesian methods, meta-learning, and increasing, their integration with foundational models.
+I am a PhD candidate in the Machine Learning and AI lab of Prof. Mihaela van der Schaar at the University of Cambridge, department of Applied Mathematics and Theoretical Physics. My research focuses on developing machine learning models for personalised decision-making and human-machine interaction. I am particularly passionate about data- and reality-centric AI, with a dedicated focus on advancing personalized education and healthcare. My research encompasses various ML domains, including: probabilistic ML, Bayesian experimental design, meta-learning, and increasingly, their integration with foundational models, in particular LLMs.
 
-I am actively engaged in a collaborative partnership with [Eedi](https://eedi.com), working alongside industry experts to enhance the effectiveness of studying and teaching mathematics among school-age children. This involves the development of novel machine learning models aimed at understanding students’ misconceptions and guiding their learning paths.
+I am actively engaged in a collaborative partnership with [Eedi](https://eedi.com), working alongside industry experts to enhance the effectiveness of studying and teaching mathematics among school-age children. This involves the development of novel machine learning models aimed at understanding students’ misconceptions, the evolution of theri knowledge over time, and guiding their learning paths.
 
 Before starting my PhD, I completed Part III of the Mathematical Tripos at the University of Cambridge, specialising in Mathematical Statistics. I obtained my Bachelor's degree in Mathematics and Statistics at the University of Warwick.
 

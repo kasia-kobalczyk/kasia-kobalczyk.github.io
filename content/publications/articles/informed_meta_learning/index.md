@@ -1,5 +1,5 @@
 ---
-title: 'Informed Meta-Learning'
+title: 'Towards Automated Knowledge Integration From Human-Interpretable Representations'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -13,28 +13,30 @@ authors:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2024-02-25T00:00:00Z'
-doi: 'https://doi.org/10.48550/arXiv.2402.16105'
+date: '2025-01-22T00:00:00Z'
+#doi: 'https://doi.org/10.48550/arXiv.2402.16105'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-02-25-T00:00:00Z'
+publishDate: '2025-01-22-T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['3']
+publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In SPIGM and MFHAIA workshops at ICML 2024
-#publication_short: In *ICW*
+publication: In The Thirteenth International Conference on Learning Representations
+publication_short: In *ICLR 2025 **[Spotlight]***
 
-abstract: In noisy and low-data regimes prevalent in real-world applications, a key challenge of machine learning lies in effectively incorporating inductive biases that promote data efficiency and robustness. Meta-learning and informed ML stand out as two approaches for incorporating prior knowledge into ML pipelines. While the former relies on a purely data-driven source of priors, the latter is guided by prior domain knowledge. In this paper, we formalise a hybrid paradigm, informed meta-learning, facilitating the incorporation of priors from unstructured knowledge representations, such as natural language; thus, unlocking complementarity in cross-task knowledge sharing of humans and machines. We establish the foundational components of informed meta-learning and present a concrete instantiation of this framework--the Informed Neural Process. Through a series of experiments, we demonstrate the potential benefits of informed meta-learning in improving data efficiency, robustness to observational noise and task distribution shifts.
+
+abstract: A significant challenge in machine learning, particularly in noisy and low-data environments, lies in effectively incorporating inductive biases to enhance data efficiency and robustness. Despite the success of informed machine learning methods, designing algorithms with explicit inductive biases remains largely a manual process. In this work, we explore how prior knowledge represented in its native formats, e.g. in natural language, can be integrated into machine learning models in an automated manner. Inspired by the learning to learn principles of meta-learning, we consider the approach of learning to integrate knowledge via conditional meta-learning, a paradigm we refer to as informed meta-learning. We introduce and motivate theoretically the principles of informed meta-learning enabling automated and controllable inductive bias selection. To illustrate our claims, we implement an instantiation of informed meta-learning--the Informed Neural Process, and empirically demonstrate the potential benefits and limitations of informed meta-learning in improving data efficiency and generalisation.
+
 
 # Summary. An optional shortened abstract.
 summary: We introduce the paradigm of informed meta-learning, a novel approach to inductive bias specification based on human knowledge represented in any form, including unstructured natural language.
 
-tags: [meta-learning, informed machine learning, human knowledge]
+tags: [meta-learning, informed machine learning, knowledge integration]
 
 
 # Display this page in the Featured widget?
@@ -42,12 +44,14 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
-- name: PDF
-  url: 'publications/articles/informed_meta_learning/paper.pdf'
+- name: openreview
+  url:  'https://openreview.net/forum?id=NTHMw8S1Ow'
 - name: arXiv
   url: https://arxiv.org/abs/2402.16105
-- name: ICML workshop poster 
-  url:  'publications/articles/informed_meta_learning/workshop_poster.pdf'
+- name: PDF
+  url: 'publications/articles/informed_meta_learning/paper.pdf'
+- name: code
+  url: https://github.com/kasia-kobalczyk/informed-meta-learning
 
 
 #url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
@@ -82,4 +86,4 @@ image:
 
 ![imgage](featured.png)
 
-In noisy and low-data regimes prevalent in real-world applications, a key challenge of machine learning lies in effectively incorporating inductive biases that promote data efficiency and robustness. Meta-learning and informed ML stand out as two approaches for incorporating prior knowledge into ML pipelines. While the former relies on a purely data-driven source of priors, the latter is guided by prior domain knowledge. In this paper, we formalise a hybrid paradigm, informed meta-learning, facilitating the incorporation of priors from unstructured knowledge representations, such as natural language; thus, unlocking complementarity in cross-task knowledge sharing of humans and machines. We establish the foundational components of informed meta-learning and present a concrete instantiation of this framework--the Informed Neural Process. Through a series of experiments, we demonstrate the potential benefits of informed meta-learning in improving data efficiency, robustness to observational noise and task distribution shifts.
+A significant challenge in machine learning, particularly in noisy and low-data environments, lies in effectively incorporating inductive biases to enhance data efficiency and robustness. Despite the success of informed machine learning methods, designing algorithms with explicit inductive biases remains largely a manual process. In this work, we explore how prior knowledge represented in its native formats, e.g. in natural language, can be integrated into machine learning models in an automated manner. Inspired by the learning to learn principles of meta-learning, we consider the approach of learning to integrate knowledge via conditional meta-learning, a paradigm we refer to as informed meta-learning. We introduce and motivate theoretically the principles of informed meta-learning enabling automated and controllable inductive bias selection. To illustrate our claims, we implement an instantiation of informed meta-learning--the Informed Neural Process, and empirically demonstrate the potential benefits and limitations of informed meta-learning in improving data efficiency and generalisation.

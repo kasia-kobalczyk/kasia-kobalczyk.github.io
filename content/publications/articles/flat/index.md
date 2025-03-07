@@ -19,7 +19,7 @@ author_notes:
   - 'Equal contribution'
 
 date: '2023-09-22T00:00:00Z'
-doi: 'https://doi.org/10.48550/arXiv.2311.1005'
+#doi: 'https://doi.org/10.48550/arXiv.2311.1005'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2023-08-22T00:00:00Z'
@@ -43,7 +43,7 @@ tags: [in review, meta-learning, few-shot learning, tabular data]
 
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 links:

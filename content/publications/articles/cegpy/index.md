@@ -16,7 +16,7 @@ authors:
 #   - 'Equal contribution'
 
 date: '2023-08-15T00:00:00Z'
-doi: 'https://doi.org/10.1016/j.knosys.2023.110615'
+#doi: 'https://doi.org/10.1016/j.knosys.2023.110615'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2023-08-15-T00:00:00Z'
@@ -40,17 +40,17 @@ tags: [Knowledge-Based Systems, Bayesian Inference, Graphical Models]
 
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 links:
-# - name: ScienceDirect
-#   url: 'https://www.sciencedirect.com/science/article/pii/S0950705123003659?utm_campaign=STMJ_AUTH_SERV_PUBLISHED&utm_medium=email&utm_acid=274721439&SIS_ID=&dgcid=STMJ_AUTH_SERV_PUBLISHED&CMX_ID=&utm_in=DM370924&utm_source=AC_'
+- name: ScienceDirect
+  url: 'https://www.sciencedirect.com/science/article/pii/S0950705123003659?utm_campaign=STMJ_AUTH_SERV_PUBLISHED&utm_medium=email&utm_acid=274721439&SIS_ID=&dgcid=STMJ_AUTH_SERV_PUBLISHED&CMX_ID=&utm_in=DM370924&utm_source=AC_'
 - name: PDF
   url: 'publications/articles/cegpy/cegpy-main.pdf'
-- name: Code
+- name: code
   url: 'https://github.com/g-walley/cegpy'
-- name: Docs
+- name: docs
   url: 'https://cegpy.readthedocs.io/en/stable/intro.html'
 
 
