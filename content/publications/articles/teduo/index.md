@@ -11,14 +11,14 @@ authors:
   - Mihaela van der Schaar
 
 # Author notes (optional)
-# author_notes:
-#   - 'Equal contribution'
-#   - 'Equal contribution'
+author_notes:
+  - 'Equal contribution'
+  - 'Equal contribution'
 
-date: '2025-07-13T00:00:00Z'
+date: '2025-05-01T00:00:00Z'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2025-07-13-T00:00:00Z'
+publishDate: '2025-06-18-T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -28,7 +28,7 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: Forty-Second International Conference on Machine Learning
-publication_short: In *ICML 2025 **[Spotlight]** *
+publication_short: In *ICML 2025 **[Spotlight]***
 
 abstract: 'Developing autonomous agents capable of performing complex, multi-step decision-making tasks specified in natural language remains a significant challenge, particularly in realistic settings where labeled data is scarce and real-time experimentation is impractical. Existing reinforcement learning (RL) approaches often struggle to generalize to unseen goals and states, limiting their applicability. In this paper, we introduce TEDUO, a novel training pipeline for offline language-conditioned policy learning in symbolic environments. Unlike conventional methods, TEDUO operates on readily available, unlabeled datasets and addresses the challenge of generalization to previously unseen goals and states. Our approach harnesses large language models (LLMs) in a dual capacity: first, as automatization tools augmenting offline datasets with richer annotations, and second, as generalizable instruction-following agents. Empirical results demonstrate that TEDUO achieves data-efficient learning of robust language-conditioned policies, accomplishing tasks beyond the reach of conventional RL frameworks or out-of-the-box LLMs alone.'
 
