@@ -66,6 +66,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/katarzyna-kobalczyk/
+  - icon: square-twitter
+    icon_pack: fab
+    link: https://x.com/kasia_kobalczyk
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=en&user=PyIbICgAAAAJ
