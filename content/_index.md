@@ -70,7 +70,7 @@ sections:
           company_logo: meta-vector-logo
           location: Menlo Park, US
           date_start: '2025-06-16'
-          date_end: '2023-09-26'
+          date_end: '2025-09-26'
         - title: Quantitative Research Intern
           company: Citadel
           company_url: ''
