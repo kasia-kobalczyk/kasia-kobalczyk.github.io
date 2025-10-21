@@ -26,11 +26,10 @@ bio: Enthiusiastic about machine learning and AI with a human-centric and data-e
 
 # Interests to show in About widget
 interests:
-  - Probabilistic Machine Learning
   - Foundational Models
+  - Probabilistic Machine Learning
   - Meta-learning and Sample-efficient Decision-making
   - Human-machine Interaction and Alignment
-  - Machine Learning for Education and Healthcare
   - Quantitative Research
 
 # Education to show in About widget
@@ -86,7 +85,7 @@ email: 'knk@cam.ac.uk'
 highlight_name: true
 ---
 
-I am a PhD candidate in the Machine Learning and AI lab of Prof. Mihaela van der Schaar at the University of Cambridge, department of Applied Mathematics and Theoretical Physics. My research focuses on developing machine learning models for personalised decision-making and human-machine interaction. I am particularly passionate about data- and reality-centric AI, with a dedicated focus on advancing personalized education and healthcare. My research encompasses various ML domains, including: probabilistic ML, Bayesian experimental design, meta-learning, and increasingly, their integration with foundational models, in particular LLMs.
+I am a PhD candidate in the Machine Learning and AI lab of Prof. Mihaela van der Schaar at the University of Cambridge, department of Applied Mathematics and Theoretical Physics. My research aims to make AI systems more data-efficient, adaptive, and aligned with humans. I study how models—especially large language models—can represent human knowledge and make decisions consistent with both empirical data and contextual cues. My work combines ideas from meta-learning, probabilistic ML, and Bayesian experimental design to build learning frameworks that provide principled uncertainty estimates and support more trustworthy decision-making.
 
 I am actively engaged in a collaborative partnership with [Eedi](https://eedi.com), working alongside industry experts to enhance the effectiveness of studying and teaching mathematics among school-age children. This involves the development of novel machine learning models aimed at understanding students’ misconceptions, the evolution of theri knowledge over time, and guiding their learning paths.
 
