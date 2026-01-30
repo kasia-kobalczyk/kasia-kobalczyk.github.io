@@ -22,13 +22,14 @@ organizations:
     url: https://www.vanderschaar-lab.com
 
 # Short bio (displayed in user profile at end of posts)
-bio: Enthiusiastic about machine learning and AI with a human-centric and data-efficient approach.
+bio: PhD students in ML. Enthusiast of large language models and decision-making under uncertainty.
 
 # Interests to show in About widget
 interests:
   - Foundational Models
   - Probabilistic Machine Learning
   - Meta-learning and Sample-efficient Decision-making
+  - Uncertainty Quantification
   - Human-machine Interaction and Alignment
   - Quantitative Research
 
