@@ -47,12 +47,12 @@ featured: true
 links:
 - name: openreview
   url:  'https://openreview.net/forum?id=SsuBd46twl'
-# - name: arXiv
-#   url: https://arxiv.org/abs/2506.05967
+- name: arXiv
+  url: https://arxiv.org/abs/2603.02913
 # - name: PDF
 #   url: 'publications/articles/causal_pref_learning/paper.pdf'
-# - name: code
-#   url: https://github.com/kasia-kobalczyk/causal-preference-learning
+- name: code
+  url: https://github.com/kasia-kobalczyk/guess_llm
 
 
 #url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
